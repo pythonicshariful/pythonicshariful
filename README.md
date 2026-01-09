@@ -102,4 +102,4 @@
 ---
 
 
-<p align="center">Made with ❤️, Python, and a lot of headless browsers.</p>
+<p align="center">Made with Love, Python, and a lot of headless browsers.</p>
