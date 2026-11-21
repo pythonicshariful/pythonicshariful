@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shariful+Islam%F0%9F%91%8B;Web+Scraping+Expert+%E2%80%A2+Python+Automation;Learning+Machine+Learning+%26+AI;I+turn+websites+into+clean%2C+actionable+data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shariful+Islam%F0%9F%91%8B;Auto-Purchase+Bots+%E2%80%A2+AI+Agents+%E2%80%A2+Python+Automation;Learning+Machine+Learning+%26+AI;I+turn+websites+into+clean%2C+actionable+data" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,11 +15,13 @@
 ---
 
 ## 🕸️ What I Do
+- **Auto-purchase & checkout bots** — monitor stock and buy the second it drops (Target, Best Buy, Microsoft Store, Amazon, Lazada, Pokémon TCG)
+- **AI agents & automation** — agents that watch, decide, and act: Discord alerts → auto-buy, monitoring → instant notifications
 - **Web scraping at scale** with Python (Selenium, Playwright, Scrapy, BeautifulSoup)
 - **Automation pipelines** for data collection, cleaning, and storage
 - **API integrations** (REST/GraphQL) and browser automation
 - **Data wrangling** with Pandas, exporting to CSV/JSON/DB
-- **Learning ML & AI** to build smarter data products
+- **Building trainable AI** — Bangla Q&A classifier, small generative models, RAG experiments
 
 ### 🔧 Tech Stack
 <p>
@@ -32,6 +33,9 @@
   <img src="https://img.shields.io/badge/Requests-000000?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
 </p>
@@ -39,15 +43,13 @@
 ---
 
 ## ✨ Highlights
+- Shipped **auto-checkout bots** for Target, Microsoft Store, Best Buy & Lazada — stock monitoring, anti-bot bypass, Discord alerts
+- Built a **Queue-it queue bot** that passed a live ticket queue (PSV sale)
 - Built bots that **extract thousands of pages/day** with rotating proxies & retries
 - Designed resilient **anti-bot bypass** flows (stealth drivers, human-like waits, captchas via services)
 - Delivered **clean datasets** ready for analysis & model training
+- ⭐ **Fiverr Level 1 seller — 4.9★ across 47 reviews** (Python scraping & automation)
 - Currently exploring **feature engineering**, **vector databases**, and **LLM-powered** scraping assistants
-
----
-
-/
-
 
 ---
 
@@ -63,18 +65,20 @@
 ---
 
 ## 🧪 ML & AI Learning Journey
-- 🎯 Current focus: **data labeling, feature engineering, small ML models for classification/regression**
-- 🧠 Next up: **LLM-assisted scraping**, **RAG for document-heavy sites**, **agent workflows**
+- 🎯 Current focus: **trainable Bangla Q&A classifier** (TF-IDF + Naive Bayes), **TinyGPT** — a small character-level generative model in PyTorch, and **RAG** experiments
+- 🧠 Next up: **AI agents that act** — monitor → decide → buy / notify, and **LLM-assisted scraping**
 - 📚 Notes & experiments live here → [`/labs`](https://github.com/pythonicshariful/labs)
 
 ---
 
 ## 🗂️ Example Services I Offer
+- Auto-purchase / checkout bots — monitor stock → buy in seconds, with Discord / Telegram alerts
+- Monitoring bots — **price changes**, **stock**, **new listings**, with instant alerts
+- AI agents & custom automation for repetitive web tasks
 - Full-site data extraction (anti-bot aware) → CSV/JSON/DB
 - PDF/image capture & text extraction (OCR)
 - API discovery & reverse engineering for private endpoints
 - Dashboard/API to deliver data (FastAPI + simple UI)
-- Ongoing monitoring for **price changes**, **stock**, **new listings**
 
 > 💌 **Need data?** Open an issue or reach out!
 
